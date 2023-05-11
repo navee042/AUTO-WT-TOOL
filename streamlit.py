@@ -237,7 +237,7 @@ def test_out_of_band_sqli(url):
 def main():
 
 
-    page = st.sidebar.radio("Navigation", ["Home", "Union Info Page" , "Error Info Page" , "Time Info Page" , "Boolean Info Page" , "Content Info Page"])
+    page = st.sidebar.radio("Navigation", ["Home", "Union Info Page" , "Error Info Page" , "Time Info Page" , "Boolean Info Page" , "Content Info Page" , "Out-of-band Info Page"])
 
     if page == "Home":
         st.markdown("<h1 style='text-align: center;'>AUTO-WT TOOL</h1>", unsafe_allow_html=True)
