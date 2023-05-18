@@ -1,5 +1,5 @@
-streamlit
+streamlit====1.17.0
 reportlab
-pycairo==1.23.0
+pycairo==1.15.10
 pkg-config==1.2.0
 
