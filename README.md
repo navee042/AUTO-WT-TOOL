@@ -28,7 +28,7 @@ USAGE:
 
 1.Clone the repository or copy the code into your local environment.
 
-2. Install the required dependencies as mentioned in the Prerequisites section.
+2.Install the required dependencies as mentioned in the Prerequisites section.
 
 3.Open a terminal or command prompt and navigate to the directory where the Python file is located.  
 
