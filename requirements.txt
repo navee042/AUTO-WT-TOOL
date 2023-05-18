@@ -2,3 +2,4 @@ streamlit
 reportlab
 pycairo==1.23.0
 pkg-config
+cairo >= 1.15.10
