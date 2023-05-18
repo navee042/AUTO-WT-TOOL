@@ -11,12 +11,16 @@ REQUIREMENTS:
 
 Make sure you have the following dependencies installed:  
 
-Python 3.x  
+- Python (version 3.6 or above)
 
-Streamlit library (pip install streamlit)  
 
-Requests library (pip install requests)  
+- Streamlit (install using `pip install streamlit`)
 
+
+- Requests (install using `pip install requests`)
+
+
+- ReportLab (install using `pip install reportlab`)
 
 
   
