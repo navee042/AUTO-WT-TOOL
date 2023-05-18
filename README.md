@@ -26,13 +26,19 @@ Make sure you have the following dependencies installed:
   
 USAGE:  
 
-1.Copy the code into a Python file, e.g., sql_injection_scanner.py.  
+1.1. Clone the repository or copy the code into your local environment.
 
-2.Install the required dependencies.  
+2. Install the required dependencies as mentioned in the Prerequisites section.
 
 3.Open a terminal or command prompt and navigate to the directory where the Python file is located.  
 
-4.Run the code using the command streamlit run sql_injection_scanner.py.  
+4.Run the code using the following command:
+
+
+streamlit run <filename>.py  
+
+  
+Replace `<filename>.py` with the name of the Python file where you have saved the code.
 
 5.A browser window should open with the Streamlit app running.  
 
