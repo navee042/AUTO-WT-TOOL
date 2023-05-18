@@ -3,6 +3,8 @@ AUTO-WT TOOL
 
 This system tests for different types of SQL injection vulnerabilities: union-based, time-based, error-based, boolean-based, content-based blind, and out-of-band. 
 It uses the Streamlit library for the user interface and the Requests library to make HTTP requests.
+
+
 Devoloped by: Naveen krishna k v & Aadithyu A K  
 
 
