@@ -26,7 +26,7 @@ Make sure you have the following dependencies installed:
   
 USAGE:  
 
-1.1. Clone the repository or copy the code into your local environment.
+1.Clone the repository or copy the code into your local environment.
 
 2. Install the required dependencies as mentioned in the Prerequisites section.
 
