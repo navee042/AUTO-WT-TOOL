@@ -45,6 +45,8 @@ Replace `<filename>.py` with the name of the Python file where you have saved th
 5.A browser window should open with the Streamlit app running.  
 
 
-
+This TOOL is available to access directly in this URL:  https://sqlietool-auto-wt-tool-stream-5olzrz.streamlit.app/
+  
+  
 Please NOTE:This is a basic SQL injection vulnerability scanner and may not detect all possible vulnerabilities. 
 Remember to use this code responsibly and only on systems that you have proper authorization to test. 
